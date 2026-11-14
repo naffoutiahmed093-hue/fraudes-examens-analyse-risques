@@ -1,5 +1,5 @@
 # fraudes-examens-analyse-risques
-ujet : fraudes aux examens et conséquences sur les compétences des diplômés.
+sujet : fraudes aux examens et conséquences sur les compétences des diplômés.
 
 
 
